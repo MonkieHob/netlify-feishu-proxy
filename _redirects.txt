@@ -1,1 +1,1 @@
-/* https://accounts.feishu.cn/:splat 200
+/* https://www.feishu.cn/:splat 200
